@@ -12,7 +12,7 @@
 
 3. Проверка корректности в jsonlint:
 
-   ![alt text](https://github.com/MarinaSvistunova/json_intro/blob/master/images/jsonlint.png)
+   ![alt text](https://github.com/polinalazebnikova/json_intro/blob/master/jsonlint.png)
 
 Часть II. Построение схемы
 
@@ -22,4 +22,4 @@
 
 2. Валидация на jsonschemavalidator.net:
 
-   ![alt text](https://github.com/MarinaSvistunova/json_intro/blob/master/images/jsonvalid.png)
+   ![alt text](https://github.com/polinalazebnikova/json_intro/blob/master/jsonvalid.png)
